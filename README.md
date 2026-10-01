@@ -5,13 +5,8 @@ Statische Website für **bkt.lokro.dev** — _wir wollen etwas bewegen._
 - `index.html` — die komplette BKT-Seite (ehemals `random.html` aus `loekro`)
 - `styles/` — `style.css`, `glass.css`, `starsbg.css`
 - `scripts/` — `particles.js` (rote Partikel im Wahlprogramm-Bereich)
-- `assets/` — `bkt-logo.png` (Logo: Nav, Hero, Footer, Favicon)
+- `assets/` — `bkt.png` (Logo: Nav, Hero, Footer, Favicon)
 - `CNAME` — Custom Domain für GitHub Pages
-
-## Logo hinzufügen
-
-`assets/bkt-logo.png` fehlt noch — bitte das BKT-Logo (quadratisch, PNG) dort ablegen.
-Ohne die Datei zeigen Nav, Hero, Footer und Favicon ein gebrochenes Bild.
 
 ## Lokal ansehen
 
